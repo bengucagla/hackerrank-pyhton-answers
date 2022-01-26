@@ -1,0 +1,7 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    bolme=int(a/b)
+    print(bolme)
+    n_bolme=float(a/b)
+    print(n_bolme)
